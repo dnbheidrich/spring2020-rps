@@ -19,6 +19,7 @@ namespace rps
                 {
                     running = false;
                     break;
+                    
                 }
                 Console.Clear();
                 Console.WriteLine("Rock, Paper, or Scissors?");
